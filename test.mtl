@@ -1,0 +1,539 @@
+newmtl SkinTorso
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 0.764706 0.709804
+Ks 0.0196078 0.0196078 0.0196078
+Km 0.015
+
+newmtl Nipples
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 0.709804 0.639216
+Ks 0.0196078 0.0196078 0.0196078
+Km 0.015
+
+newmtl SkinNeck
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 0.764706 0.709804
+Ks 0.0196078 0.0196078 0.0196078
+Km 0.015
+
+newmtl SkinHip
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 0.764706 0.709804
+Ks 0.0196078 0.0196078 0.0196078
+Km 0.015
+
+newmtl SkinFeet
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 0.764706 0.709804
+Ks 0.0196078 0.0196078 0.0196078
+Km 0.015
+
+newmtl SkinLeg
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 0.764706 0.709804
+Ks 0.0196078 0.0196078 0.0196078
+Km 0.015
+
+newmtl Toenails
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 0.501961 0.247059 0.247059
+Ks 0.329412 0.329412 0.329412
+Km 0.015
+
+newmtl SkinForearm
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 0.764706 0.709804
+Ks 0.0196078 0.0196078 0.0196078
+Km 0.015
+
+newmtl SkinArm
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 0.764706 0.709804
+Ks 0.0196078 0.0196078 0.0196078
+Km 0.015
+
+newmtl SkinHand
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 0.764706 0.709804
+Ks 0.0196078 0.0196078 0.0196078
+Km 0.015
+
+newmtl Fingernails
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 0.501961 0.247059 0.247059
+Ks 0.329412 0.329412 0.329412
+Km 0.015
+
+newmtl SkinHead
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 0.764706 0.709804
+Ks 0.0196078 0.0196078 0.0196078
+Km 0.015
+
+newmtl SkinScalp
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 0.764706 0.709804
+Ks 0.0196078 0.0196078 0.0196078
+Km 0.015
+
+newmtl Lips
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 0.501961 0.247059 0.247059
+Ks 0.184314 0.184314 0.184314
+Km 0.015
+
+newmtl EyeSocket
+d 1
+Ns 0.595
+Ni 0
+Ka 0 0 0
+Kd 1 0.682353 0.611765
+Ks 0.0196078 0.0196078 0.0196078
+Km 0.015
+
+newmtl InnerMouth
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 0.501961 0.501961
+Ks 0.0196078 0.0196078 0.0196078
+Km 0.015
+
+newmtl Nostrils
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 0.764706 0.709804
+Ks 0 0 0
+Km 0.015
+
+newmtl Lacrimal
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 0.501961 0.501961
+Ks 0.0196078 0.0196078 0.0196078
+Km 0.015
+
+newmtl Eyelashes
+d 0
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 0.227451 0.141176 0.0196078
+Ks 0 0 0
+Km 0.015
+
+newmtl Eyebrows
+d 0.1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 0.227451 0.141176 0.0117647
+Ks 0 0 0
+Km 0.015
+
+newmtl Teeth
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.494118 0.494118 0.494118
+Km 0.015
+
+newmtl Gums
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 0.501961 0.501961
+Ks 0.494118 0.494118 0.494118
+Km 0.015
+
+newmtl LCornea
+d 0
+Ns 0.645
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+
+newmtl LEyewhite
+d 1
+Ns 0.645
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+
+newmtl LPupil
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Km 0
+
+newmtl LIris
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0 0.501961 0.74902
+Ks 0.494118 0.494118 0.494118
+Km 0
+
+newmtl RCornea
+d 0
+Ns 0.645
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+
+newmtl REyewhite
+d 1
+Ns 0.645
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+
+newmtl RPupil
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Km 0
+
+newmtl RIris
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0 0.501961 0.74902
+Ks 0.494118 0.494118 0.494118
+Km 0
+
+newmtl Tongue
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 0.419608 0.0862745 0.0392157
+Ks 0.0196078 0.0196078 0.0196078
+Km 0.015
+
+newmtl PubicHair
+d 0.1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 0.227451 0.141176 0.0117647
+Ks 0 0 0
+Km 0.015
+
+newmtl Bodice
+d 1
+Ns 0.985388
+Ni 0
+Ka 0 0 0
+Kd 0.858824 0.94902 0.854902
+Ks 0.027451 0.027451 0.027451
+Km 0.015
+
+newmtl BodiceBottom
+d 1
+Ns 0.985388
+Ni 0
+Ka 0 0 0
+Kd 0.858824 0.94902 0.854902
+Ks 0.027451 0.027451 0.027451
+Km 0.015
+
+newmtl Straps
+d 1
+Ns 0.985388
+Ni 0
+Ka 0 0 0
+Kd 0.639216 0.87451 0.627451
+Ks 0.027451 0.027451 0.027451
+Km 0.015
+
+newmtl Skirt
+d 1
+Ns 0.985388
+Ni 0
+Ka 0 0 0
+Kd 0.858824 0.94902 0.854902
+Ks 0.027451 0.027451 0.027451
+Km 0.015
+
+newmtl OverSkirt
+d 1
+Ns 0.985388
+Ni 0
+Ka 0 0 0
+Kd 0.639216 0.87451 0.627451
+Ks 0.027451 0.027451 0.027451
+Km 0.015
+
+newmtl Panties
+d 1
+Ns 0.985388
+Ni 0
+Ka 0 0 0
+Kd 0.858824 0.94902 0.854902
+Ks 0.027451 0.027451 0.027451
+Km 0.015
+
+newmtl dragonflyUPoutside
+d 1
+Ns 0.996667
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.972549 0.972549 0.972549
+Km 0.02
+map_Kd /Maps/FWWings01GrVein.jpg
+map_D /ConvertedMaps/FWWings01Tr.tif
+map_Bump /ConvertedMaps/FWWings01DblGrad.tif
+
+newmtl dragonflyUPinside
+d 1
+Ns 0.996667
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.972549 0.972549 0.972549
+Km 0.02
+map_Kd /Maps/FWWings01GrVein.jpg
+map_D /ConvertedMaps/FWWings01Tr.tif
+map_Bump /ConvertedMaps/FWWings01DblGrad.tif
+
+newmtl dragonflyLOoutside
+d 1
+Ns 0.996667
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.972549 0.972549 0.972549
+Km 0.02
+map_Kd /Maps/FWWings01GrVein.jpg
+map_D /ConvertedMaps/FWWings01Tr.tif
+map_Bump /ConvertedMaps/FWWings01DblGrad.tif
+
+newmtl dragonflyLOinside
+d 1
+Ns 0.996667
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.972549 0.972549 0.972549
+Km 0.02
+map_Kd /Maps/FWWings01GrVein.jpg
+map_D /ConvertedMaps/FWWings01Tr.tif
+map_Bump /ConvertedMaps/FWWings01DblGrad.tif
+
+newmtl BaseMess
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/UpDoMBr.jpg
+map_D /ConvertedMaps/UpDoTr.tif
+
+newmtl Base
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/UpDoMBr.jpg
+map_D /ConvertedMaps/UpDoTr.tif
+
+newmtl Bun
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/UpDoMBr.jpg
+map_D /ConvertedMaps/UpDoTr.tif
+
+newmtl NeckMess
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/UpDoMBr.jpg
+map_D /ConvertedMaps/UpDoTr.tif
+
+newmtl BurnMess
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/UpDoMBr.jpg
+map_D /ConvertedMaps/UpDoTr.tif
+
+newmtl Bangs
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/UpDoMBr.jpg
+map_D /ConvertedMaps/UpDoTr.tif
+
+newmtl BunMess
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/UpDoMBr.jpg
+map_D /ConvertedMaps/UpDoTr.tif
+
+newmtl WandRails
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 0.690196 0.537255 0
+Ks 0.921569 0.984314 0.219608
+Km 0.02
+
+newmtl WandBalls
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 0.619608 0.827451 1
+Ks 1 1 1
+Km 0.02
+
+newmtl CtrBall
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 0.713726 0.14902 0
+Ks 1 1 1
+Km 0.02
+
+newmtl BtmLgBall
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 0.690196 0.537255 0
+Ks 0.921569 0.984314 0.219608
+Km 0.02
+
+newmtl BtmSmBall
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 0.690196 0.537255 0
+Ks 0.921569 0.984314 0.219608
+Km 0.02
+
+newmtl Tori
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 0.690196 0.537255 0
+Ks 0.921569 0.984314 0.219608
+Km 0.02
+
+newmtl Wand
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 0.282353 0.192157 0.113725
+Ks 0.254902 0.231373 0.054902
+Km 0.02
+
+newmtl Spirals
+d 1
+Ns 0.85
+Ni 0
+Ka 0 0 0
+Kd 0.192157 0.368627 0.027451
+Ks 0.34902 0.321569 0.0745098
+Km 0.02
+
